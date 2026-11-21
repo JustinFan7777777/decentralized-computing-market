@@ -187,7 +187,7 @@ npx hardhat verify --network sepolia <CONTRACT_ADDRESS>
 
 ### License
 
-MIT
+Code is released under the [MIT License](LICENSE).
 
 ---
 
